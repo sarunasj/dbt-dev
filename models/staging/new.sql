@@ -1,1 +1,1 @@
-SELECT 1 AS new_col
+SELECT 1 AS new_col3
